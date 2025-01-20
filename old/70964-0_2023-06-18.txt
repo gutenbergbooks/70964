@@ -2325,7 +2325,7 @@ said Sinclair.
 
 “One never knows,” said Sinclair hastily.
 
-The man addressed said, “Yes, sir, and we have been through all his
+The man addressed said “Yes, sir, and we have been through all his
 papers as you told us; there appears to be nothing of importance. He
 was very methodical, and did not appear to keep any private documents
 here. Perhaps they are in Devonshire.”
@@ -2413,7 +2413,7 @@ Eric Sanders, Mr. Collins.” The men shook hands and exchanged a look
 not too friendly. They were antipathetical.
 
 “I have brought my old nurse with me, and John. I shall go to an
-hotel, of course. I suppose our house is in the hands of the police,”
+Hotel, of course. I suppose our house is in the hands of the police,”
 and she shuddered. “We stayed at Ackroyd’s when we had let our house
 one year,” she said.
 
